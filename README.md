@@ -32,7 +32,7 @@
 
 ## GitHub Stats
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozanette&show_icons=true&theme=radical)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozanette&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozanette&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
 ## Get in touch with me 😉
