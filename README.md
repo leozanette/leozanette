@@ -40,7 +40,7 @@
 ## Get in touch with me 😉
 
 <div align="center">
-  <a href="mailto:contato.leonardobzanette@gmail.com" target="_blank">
+  <a href="mailto:leonardobzanette@gmail.com" target="_blank">
     <img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-zanette/" target="_blank">
