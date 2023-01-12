@@ -32,7 +32,7 @@
 
 ## GitHub Stats
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leozanette&count_private=true)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/?username=leozanette&repo=github-readme-stats" />
 </a>
