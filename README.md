@@ -7,8 +7,8 @@
 ## Some of my hobbies:
 
 <ul align="center">
-	<li>💪 Going to the gym, I treat it like lunch, gotta do everyday, or almost at least, guess its more like breakfest really 🤣.</li>
-	<li>🎉 Going out with my friends, really a situation to create memorys, some goods other bad, definitely.</li>
+	<li>💪 Going to the gym, I treat it like lunch, gotta do everyday, or almost, guess its more like breakfest really 🤣.</li>
+	<li>🎉 Going out with my friends, a situation to create memorys, some good others bad, definitely.</li>
 	<li>🎮 Like gaming, and I do it for relaxing OR sometimes getting frustrated.</li>
 </ul>
 
