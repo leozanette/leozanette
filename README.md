@@ -30,14 +30,14 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 	
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/?username=leozanette&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozanette&layout=compact" />
-</a>
+</a> -->
 	
 ## Get in touch with me 😉
 
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/leonardo-zanette/" target="_blank">
     <img alt="linkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/leonardobzanette/" target="_blank">
+<!--   <a href="https://instagram.com/leonardobzanette/" target="_blank">
     <img alt="instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
 </div>
