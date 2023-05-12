@@ -1,7 +1,7 @@
 ## Hello 👋 and welcome to my GitHub!
 
 <div align="justify">
-	I'm Leonardo, 29 years old and studying Software Development at Trybe. I really like programming and learning.
+	I'm Leonardo, 30 years old and studying Software Development at Trybe. I really like programming and learning.
 	Why I've chosen to change my career to programming? I had some contact with SQL in my previous career and solving problems with it was really fun.
 
 ## Some of my hobbies:
